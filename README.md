@@ -1,1 +1,2 @@
 #Newsletter-signup
+#NewsLetter-signup
